@@ -11,7 +11,7 @@ function Contact() {
 
       <main className="flex items-start justify-center mx-auto w-full">
 
-        <div className="flex flex-col w-fit mx-auto">
+        <div className="flex flex-col w-full mx-auto">
 
           <section className='flex items-center'>
             <Chip color='secondary' className='px-8 py-10 bg-opacity-50 mt-9 text-white text-5xl rounded-full'>Contactos</Chip>
@@ -86,9 +86,8 @@ function Contact() {
 
         {/* formulario */}
 
-        <section className='border-orange-300  mx-auto h-full my-auto py-8 px-4 w-fit rounded-lg'>
+        <section className='border-orange-300 mx-auto h-full my-auto py-8 px-4 w-full rounded-lg'>
           <div className="mx-auto w-fit">
-            <Chip color='warning' className='px-8 py-10 bg-opacity-50 mt-9 text-white text-5xl rounded-full'>Contactanos</Chip>
           </div>
           <FormEmail />
         </section>

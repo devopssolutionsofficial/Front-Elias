@@ -45,7 +45,8 @@ function FormEmail() {
                     <Input type="email"
                         label="Email"
                         name="user_email"
-                        required />
+                        required
+                    />
                 </div>
 
                 <div className="flex items-center justify-center flex-col w-full mt-4">
@@ -56,6 +57,7 @@ function FormEmail() {
                         className="hover:cursor-pointer w-full"
                         name="message"
                         required
+                        
                     />
                 </div>
 
