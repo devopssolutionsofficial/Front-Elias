@@ -34,6 +34,7 @@ export default function Us() {
                     en cada proyecto.</p>
             </div>
 
+
         </section>
         </main>
     )
