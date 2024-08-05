@@ -1,0 +1,16 @@
+{
+    "data": {
+        "about": "En nuestra empresa, nos especializamos en el desarrollo web utilizando las últimas tecnologías disponibles. Nos comprometemos a ofrecer soluciones innovadoras y a medida que maximicen la funcionalidad y el rendimiento de tu presencia digital. Con un equipo de expertos apasionados por la tecnología, garantizamos resultados de alta calidad y una experiencia excepcional en cada proyecto.",
+        "mail": "devopssolutions@gmail.com",
+        "phone": "099405940",
+        "houers": "Lunes - Viernes: 7:00 AM - 23:00 PM",
+        "redes": [
+             {
+                "FaceBook": "DevOpsOfficial_",
+                "X": "DevOpsOfficial",
+                "Ig": "Dev_Ops_Official",
+                "LinkedIn": ""
+            }
+        ]
+    }
+}
